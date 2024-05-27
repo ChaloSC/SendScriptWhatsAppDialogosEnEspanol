@@ -1,23 +1,22 @@
-# SendScriptWhatsApp
+# SendScriptWhatsAppEspañol
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar el guión completo de la pelicula Shrek 1, Bee Movie y Toy Story 1 por WhatsApp
 
-## Utilização
+## Utilización
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abra [SendScriptSherk1-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptSherk1-espa%C3%B1ol.js))
+Abra [SendScriptBeeMovie-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptBeeMovie-espa%C3%B1ol.js))
+Abra [SendScriptToyStory1-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptToyStory1-espa%C3%B1ol.js))
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+Copia el contenido de la siguiente forma (Click en "Raw" -> luego "ctrl+a" -> y finalmente "ctrl+c")
 
-No WhatsApp Web abra o console do Browser
+Ya en WhatsApp debe abrir la consola del navegador
 
-|  ⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.|
+|  ⚠️ Actualmente Google Chrome no permite copiar y pegar código directamente en la consola.|
 |--|
-|  ***Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow-scripts"***| 
-|Após isso será permitido colar e continuar a execução do script|
+|  ***Para solucionar este problema, al pegar el código dentro de la consola debe esperar a que Chrome arroje un mensaje como el siguiente "allow-scripts"***|
+|Deberá escribir "allow-scripts" para continuar. Transcurrido esto podrá ejecutar el código. ⚠️ Dependiendo del lenguaje de su navegador el mensaje podría variar.|
 
+Péguelo en la consola y presione "Enter" para ejectuarlo
 
-Cole o código no console e aperte Enter
-
-Pronto
+Eso seria todo!
