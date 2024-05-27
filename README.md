@@ -4,9 +4,9 @@ Código para enviar el guión completo de la pelicula Shrek 1, Bee Movie y Toy S
 
 ## Utilización
 
-Abra [SendScriptSherk1-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptSherk1-espa%C3%B1ol.js))
-Abra [SendScriptBeeMovie-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptBeeMovie-espa%C3%B1ol.js))
-Abra [SendScriptToyStory1-español.js]([https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptToyStory1-espa%C3%B1ol.js))
+Abra [SendScriptSherk1-español.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptSherk1-espa%C3%B1ol.js)
+Abra [SendScriptBeeMovie-español.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptBeeMovie-espa%C3%B1ol.js)
+Abra [SendScriptToyStory1-español.js](https://github.com/ChaloSC/SendScriptWhatsAppDialogosEnEspanol/blob/main/SendScriptToyStory1-espa%C3%B1ol.js)
 
 Copia el contenido de la siguiente forma (Click en "Raw" -> luego "ctrl+a" -> y finalmente "ctrl+c")
 
